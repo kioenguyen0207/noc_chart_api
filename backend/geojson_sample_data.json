@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 253
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 1.352566007071275,
+        "long": 103.8372802734375
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 2.0677272919038083,
+        "long": 103.348388671875
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 460
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 2.981441678317486,
+        "long": 101.6180419921875
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 233
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 4.390228926463396,
+        "long": 102.40905761718749
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 654
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 3.2556928748506118,
+        "long": 102.9034423828125
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 1200
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 38.54816542304656,
+        "long": 262.177734375
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 726
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 31.57853542647338,
+        "long": 252.158203125
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 489
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 46.49839225859763,
+        "long": 244.86328125
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 784
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 37.3002752813443,
+        "long": 274.21875
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "attacked_count": 1272
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": 41.83682786072714,
+        "long": 251.982421875
+      }
+    }
+  ]
+}
